@@ -249,14 +249,6 @@ It should make sense.
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hosseinb1111&show_icons=true&hide_border=true&rank_icon=github" alt="Hossein's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinb1111&layout=compact&hide_border=true" alt="Hossein's most used languages" />
-</p>
-
----
 
 ## 🌍 Find Me
 
