@@ -23,4 +23,4 @@ JavaScript · Cloudflare Workers · KV · Workers AI · Supabase · Telegram Bot
 
 ## Contact
 
-[hossein.my.id](https://hossein.my.id) · [email, work@hossein.my.id]
+[hossein.my.id](https://hossein.my.id) · [email](work@hossein.my.id)
