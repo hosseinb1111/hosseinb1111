@@ -2,7 +2,7 @@
 
 Computer engineering student building real-time and AI apps on Cloudflare's edge.
 
-**Looking for:** [a junior web / software engineering internship,]
+**Looking for:** a junior web / software engineering internship
 
 ## Projects
 
@@ -23,4 +23,4 @@ JavaScript · Cloudflare Workers · KV · Workers AI · Supabase · Telegram Bot
 
 ## Contact
 
-[hossein.my.id](https://hossein.my.id) · [email](work@hossein.my.id)
+[hossein.my.id](https://hossein.my.id) · [work@hossein.my.id](mailto:work@hossein.my.id)
