@@ -1,191 +1,199 @@
-# Hi, I'm Hossein 👋
+<div align="center">
 
-I'm a computer engineering student and developer focused on building practical software, web applications, AI-powered tools, and cloud-based systems.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <h1>Hi there, I'm Hossein 👋</h1>
 
-I enjoy taking an idea from a rough concept to something that actually works — designing the interface, writing the backend, connecting APIs and databases, deploying it, and then figuring out why it broke at 2 AM.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%26+Developer;Web+Applications+%7C+AI+Tools+%7C+Realtime+Systems;Cloudflare+Workers+%7C+Edge+%7C+Serverless;Building+practical+software+from+idea+to+deployment;Learning+by+building%2C+debugging%2C+and+shipping" alt="Typing SVG" />
+  </a>
 
-My main interests are **web development, artificial intelligence, Cloudflare's edge platform, real-time applications, and developer tooling**.
+  <br/>
+
+  <p>
+    <a href="https://hossein.my.id">
+      <img src="https://img.shields.io/badge/Portfolio-hossein.my.id-2f88ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://fa.hossein.my.id">
+      <img src="https://img.shields.io/badge/Persian%20Portfolio-fa.hossein.my.id-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Persian Portfolio" />
+    </a>
+    <a href="https://github.com/Hosseinb1111">
+      <img src="https://img.shields.io/badge/GitHub-Hosseinb1111-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Web%20%7C%20AI%20%7C%20Cloudflare-2f88ff?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Computer%20Engineering-Student-6f42c1?style=flat-square" alt="Computer Engineering Student" />
+    <img src="https://img.shields.io/badge/Building-Real%20Projects-2ea043?style=flat-square" alt="Building real projects" />
+  </p>
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+I'm a **Computer Engineering student and developer** focused on building practical software across the web, AI, cloud infrastructure, and realtime systems.
+
+I like taking an idea from a rough concept to something that actually works — designing the interface, writing the backend, connecting APIs and databases, deploying it, and then figuring out why it broke.
+
+My current technical interests sit around:
+
+* 🌐 Modern web applications
+* 🤖 AI-powered tools and LLM integrations
+* ☁️ Cloudflare Workers and edge computing
+* ⚡ Realtime applications and WebSockets
+* 🗄️ Databases, backend APIs, and serverless systems
+* 🛠️ Developer tools and practical utilities
+
+I'm especially interested in the intersection between **AI + web applications + cloud infrastructure**.
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 What I Build
 
-* 🎓 Computer Engineering student
-* 🌐 Building modern web applications and cloud-based tools
-* 🤖 Experimenting with AI APIs, LLMs, chatbots, and AI-assisted systems
-* ☁️ Working with Cloudflare Workers and edge computing
-* ⚡ Interested in real-time applications and lightweight serverless architectures
-* 🗄️ Working with SQL databases, Supabase, and backend APIs
-* 🛠️ I like understanding how things work instead of only making them work
-* 🌱 Currently focused on becoming a stronger software engineer through consistent project-based learning
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I don't want to just collect technologies.
+### 🌐 Web Applications
 
-I want to understand the engineering behind them and become capable of turning ideas into reliable software.
+Interactive web applications with responsive interfaces, practical functionality, and modern frontend architectures.
 
----
+### 🤖 AI & APIs
 
-## 🚀 What I Build
+AI-powered tools, Telegram bots, LLM integrations, external APIs, search, automation, and experiments with AI-assisted workflows.
 
-My projects tend to sit around a few areas:
+</td>
+<td width="50%" valign="top">
 
-**Web Applications**
+### ☁️ Cloud & Edge
 
-Responsive, interactive applications built with modern web technologies, with an emphasis on clean interfaces and practical functionality.
+Serverless applications using **Cloudflare Workers**, Durable Objects, D1, KV, WebSockets, and lightweight edge-oriented architectures.
 
-**AI & Automation**
+### ⚡ Realtime Systems
 
-AI-powered tools, Telegram bots, API integrations, and experiments with LLMs and external services.
+Messaging, WebSocket applications, synchronization, live state, and communication systems.
 
-**Cloud & Edge Computing**
-
-Serverless applications using Cloudflare Workers, Durable Objects, and other edge-oriented technologies.
-
-**Real-Time Systems**
-
-Messaging, WebSocket-based applications, live state synchronization, and lightweight real-time architectures.
-
-**Developer Experiments**
-
-Small projects where I use a technology, solve a specific problem, or explore an idea just to understand it better.
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Technologies & Tools
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css" />
 
-### Platforms & Backend
+### Web & Backend
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,supabase,mysql" />
 
-### Cloudflare
+### Cloud & Infrastructure
 
-* Cloudflare Workers
-* Durable Objects
-* D1
-* Workers APIs
-* WebSockets
-* Edge/serverless architectures
-* Cloudflare deployments and routing
+<img src="https://skillicons.dev/icons?i=cloudflare,docker,git,github" />
 
-### AI & APIs
+</div>
 
-* LLM APIs
-* OpenRouter
-* Groq
-* Telegram Bot API
-* Tavily
-* AI-powered automation
-* Prompt and API integration
+### ☁️ Cloudflare
+
+`Workers` · `Durable Objects` · `D1` · `KV` · `WebSockets` · `Edge Functions` · `Serverless`
+
+### 🤖 AI & APIs
+
+`LLM APIs` · `OpenRouter` · `Groq` · `Telegram Bot API` · `Tavily` · `AI Automation`
+
+### 🗄️ Data & Backend
+
+`SQL` · `MySQL` · `Supabase` · `REST APIs` · `Realtime APIs`
 
 ---
 
-## ⭐ Featured Projects
+## 📌 Featured Projects
 
-Here are some of the projects I've built while learning, experimenting, and pushing my skills further.
+These are the projects that best represent the direction I'm currently building toward.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [System AI](https://ai.hossein.my.id/)
+
+An AI-powered web application focused on conversations, memory, web search, image input, exports, and a modern multilingual interface.
+
+`AI` `LLM APIs` `Web` `Cloudflare`
+
+### ⚡ [Wire](https://wirechat.hossein.my.id/)
+
+A realtime communication application built around WebSockets and Cloudflare infrastructure.
+
+`Realtime` `WebSockets` `Cloudflare Workers` `Durable Objects`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [Live Messenger](https://chat.hossein.my.id/)
+
+A realtime messaging application exploring communication flows, reactions, replies, profiles, and live application state.
+
+`Realtime` `Messaging` `Supabase` `WebSockets`
 
 ### 📡 [Ping Monitor](https://github.com/hosseinb1111/ping-monitor)
 
-A monitoring-oriented project for checking connectivity and network availability.
+A network connectivity and monitoring tool built to explore browser networking behavior, automated checks, and practical monitoring.
 
-> Exploring networking concepts, automated checks, and practical monitoring.
+`JavaScript` `Cloudflare` `Monitoring`
 
----
-
-### 🧠 [Stack Master](https://github.com/hosseinb1111/Stack-Master)
-
-A project built around learning and working with programming concepts through an actual implementation rather than purely theoretical exercises.
-
-> One of many projects where the goal is not just the final product, but understanding the engineering underneath it.
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎲 [Random Adventure Generator](https://github.com/hosseinb1111/Random-Adventure-Generator)
+## 🤖 AI Projects
 
-A lightweight interactive project that generates randomized adventures and scenarios.
+### [`Groq Telegram Bot`](https://github.com/hosseinb1111/groq-telegram-bot)
 
-> A smaller project, but a good example of using programming to turn a simple idea into an interactive experience.
+An AI-powered Telegram bot combining conversational AI, external APIs, image understanding, streaming, search, memory, and automation.
 
----
+`Python` `AI APIs` `Telegram` `Groq`
 
-### 🤖 [Groq Telegram Bot](https://github.com/hosseinb1111/groq-telegram-bot)
+### [`Cloudflare AI`](https://github.com/hosseinb1111/cloudflare-based-AI)
 
-An AI-powered Telegram bot integrating conversational AI with external APIs.
+A Cloudflare-based AI application exploring LLM integrations, streaming, search, image handling, storage, and edge-native application architecture.
 
-> One of my experiments with combining messaging platforms, LLMs, APIs, and automation.
-
----
-
-## 🌐 Things I'm Working With
-
-Some technologies and concepts I'm actively exploring:
-
-```text
-Web Development
-├── JavaScript / TypeScript
-├── HTML / CSS
-├── Modern frontend architecture
-└── Responsive interfaces
-
-Backend & Cloud
-├── Cloudflare Workers
-├── Durable Objects
-├── D1 / SQL
-├── Supabase
-└── Serverless architectures
-
-AI
-├── LLM APIs
-├── OpenRouter
-├── Groq
-├── AI agents & automation
-└── Telegram AI bots
-
-Real-Time Systems
-├── WebSockets
-├── Messaging systems
-├── Presence / typing states
-└── Real-time synchronization
-
-Engineering
-├── Git & GitHub
-├── APIs
-├── Databases
-├── Debugging
-└── Deployment
-```
+`Cloudflare Workers` `AI` `KV` `LLMs`
 
 ---
 
-## 🧪 I Learn by Building
+## 🧪 More Projects & Experiments
 
-Most of what I learn comes from actually building things.
+I keep smaller projects around because not everything I build needs to become a flagship application.
 
-A typical project for me isn't just:
+Some are experiments, some are utilities, and some exist simply because I wanted to understand how something works.
 
-> "I followed a tutorial and it worked."
+* 🎮 [Stack Master](https://github.com/hosseinb1111/Stack-Master)
+* 🎲 [Random Adventure Generator](https://github.com/hosseinb1111/Random-Adventure-Generator)
+* 🐍 [Python Downloader](https://github.com/hosseinb1111/python-downloader1)
+* 💬 [Cool UI Chat Website](https://github.com/hosseinb1111/Cool-UI-chat-website)
+* 🧪 [Crazy Graph](https://github.com/hosseinb1111/Crazy-graph)
 
-It's more like:
+---
+
+## 🏗️ How I Learn
+
+Most of what I learn comes from building something and running into problems that tutorials never mention.
 
 ```text
 Idea
   ↓
 Research
   ↓
-Architecture
+Design
   ↓
 Implementation
   ↓
@@ -193,83 +201,95 @@ Debugging
   ↓
 Deployment
   ↓
-Something inevitably breaks
+Something breaks
   ↓
-Figure out why
+Understand why
   ↓
 Fix it
   ↓
-Learn something I didn't know before
+Improve the system
 ```
 
-That's probably the part of development I enjoy the most.
+I'm trying to move from:
 
-The interesting problems usually start appearing after the tutorial ends.
+> "I can make this work."
 
----
+toward:
 
-## 📈 Current Direction
-
-I'm currently working toward becoming a stronger **full-stack / software engineer**, with particular interest in:
-
-* Advanced JavaScript and TypeScript
-* Backend architecture
-* Cloudflare's serverless and edge ecosystem
-* Databases and data modeling
-* Real-time applications
-* AI application development
-* API design and integration
-* Software architecture
-* Performance and reliability
-* Building and deploying production-oriented projects
-
-I'm especially interested in the intersection between **AI + web applications + cloud infrastructure**.
+> "I understand why it works, why it was designed this way, and how to make it better."
 
 ---
 
-## 🛠️ Beyond the Code
+## 🎯 Current Direction
 
-I care about more than making something technically functional.
+Right now I'm focused on becoming a stronger **full-stack / software engineer** while going deeper into:
 
-When building a project, I also like thinking about:
+`JavaScript & TypeScript`
+`Backend architecture`
+`Cloudflare Workers & edge computing`
+`Databases & data modeling`
+`Realtime systems`
+`AI application development`
+`API design & integration`
+`Performance & reliability`
+`Software architecture`
 
-* How the user interacts with it
-* Whether the architecture makes sense
-* How the application behaves under real conditions
-* Performance and reliability
-* Security and privacy
-* Maintainability
-* Deployment
-* Accessibility
-* The small details that make software feel finished
+The long-term direction is the intersection of:
 
-A project doesn't feel complete to me just because it runs.
-
-It should make sense.
+**AI + Web Applications + Cloud Infrastructure**
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Hosseinb1111&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" height="170" alt="GitHub stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hosseinb1111&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hosseinb1111&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="170" alt="Top languages" />
+
+</div>
+
+---
+
+## 🌱 What I'm Working Toward
+
+I'm less interested in collecting technologies and more interested in understanding the systems behind them.
+
+That means gradually getting better at:
+
+* architecture
+* debugging
+* data modeling
+* reliability
+* security
+* performance
+* maintainability
+* deployment
+* writing software that survives beyond the first successful run
+
+---
 
 ## 🌍 Find Me
 
 🌐 **Portfolio:** [hossein.my.id](https://hossein.my.id/)
 
-💻 **GitHub:** [@hosseinb1111](https://github.com/hosseinb1111)
+🌐 **Persian Portfolio:** [fa.hossein.my.id](https://fa.hossein.my.id/)
+
+💻 **GitHub:** [@Hosseinb1111](https://github.com/Hosseinb1111)
 
 ---
 
-## 💭 A Little About How I Think
+<div align="center">
 
-I'm still learning, and I don't pretend otherwise.
+<i>Build. Break. Understand. Improve.</i>
 
-There are a lot of things I don't know yet. There are also plenty of things I thought I understood until a real project forced me to understand them properly.
-
-That's part of the point.
-
-I'm trying to build things consistently, learn from the problems they create, and gradually move from **"I can make this work"** toward **"I understand why this works, why it is designed this way, and how I can make it better."**
-
----
-
-<p align="center">
-  <i>Build. Break. Understand. Improve. Repeat.</i>
-</p>
+</div>
