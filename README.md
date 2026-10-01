@@ -19,7 +19,7 @@ Looking for a junior developer or internship role.
 | Project | What it is | Built with |
 | --- | --- | --- |
 | **[System AI](https://ai.hossein.my.id)** · [source](https://github.com/hosseinb1111/cloudflare-based-AI) | Full-stack AI chat app that runs on a single Cloudflare Worker. Streaming replies, long-term memory, web search, image upload, chat export, and English/Persian UI. Accounts use PBKDF2 hashing and signed tokens. | Workers, Workers AI, KV, R2 |
-| **[WireChat](https://wirechat.hossein.my.id)** | Realtime room-based chat with synchronized state over WebSockets. | Workers, Durable Objects, WebSockets |
+| **[WireChat](https://wirechat.hossein.my.id)** · [source](https://github.com/hosseinb1111/wire-chat) | Anonymous realtime chat with a Durable Object per room, WebSocket broadcast, persistent history in Durable Object SQLite, and a shared room directory. Documents its own security limits. | Workers, Durable Objects, SQLite, WebSockets |
 | **[Hossein OS](https://hosseinb1111.github.io/Hossein-OS/)** · [source](https://github.com/hosseinb1111/Hossein-OS) | My portfolio built as a desktop OS: draggable windows, a working terminal, a virtual file explorer, and keyboard navigation. One HTML file, no framework. | HTML, CSS, vanilla JS |
 | **[File to Link](https://filetolink.hossein.my.id)** · [source](https://github.com/hosseinb1111/file-to-link) | Batch file sharing with expiring links. Documents its 18 MB KV limit and when R2 is the better choice. Has CI. | Workers, KV |
 | **[Ping Monitor](https://hosseinb1111.github.io/ping-monitor/)** · [source](https://github.com/hosseinb1111/ping-monitor) | Browser-side latency and jitter dashboard. Measures HTTPS fetch timing, not ICMP, and says so. | JavaScript, Cloudflare Worker |
